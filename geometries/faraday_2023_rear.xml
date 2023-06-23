@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parameters>
+   <Damper_to_body_point>
+      <Value>[-1.59398, 0.025, 0.39332]</Value>
+   </Damper_to_body_point>
+   <Damper_to_rocker_point>
+      <Value>[-1.66613, 0.16732, 0.48478]</Value>
+   </Damper_to_rocker_point>
+   <Drop_Link_1_C_of_G>
+      <Value>[-1.58294, -0.26145999999999997, 0.37933]</Value>
+   </Drop_Link_1_C_of_G>
+   <Drop_Link_2_C_of_G>
+      <Value>[-1.58294, 0.26145999999999997, 0.37933]</Value>
+   </Drop_Link_2_C_of_G>
+   <Inner_track_rod_ball_joint>
+      <Value>[-1.5670119999999998, 0.362176, 0.264475]</Value>
+   </Inner_track_rod_ball_joint>
+   <Lower_wishbone_front_pivot>
+      <Value>[-1.32925, 0.365, 0.11251]</Value>
+   </Lower_wishbone_front_pivot>
+   <Lower_wishbone_outer_ball_joint>
+      <Value>[-1.566, 0.555, 0.119]</Value>
+   </Lower_wishbone_outer_ball_joint>
+   <Lower_wishbone_rear_pivot>
+      <Value>[-1.5361099999999999, 0.246, 0.09348999999999999]</Value>
+   </Lower_wishbone_rear_pivot>
+   <Outer_track_rod_ball_joint>
+      <Value>[-1.632588, 0.554739, 0.326082]</Value>
+   </Outer_track_rod_ball_joint>
+   <Push_rod_rocker_end>
+      <Value>[-1.61456, 0.25312, 0.41941]</Value>
+   </Push_rod_rocker_end>
+   <Push_rod_wishbone_end>
+      <Value>[-1.552521, 0.513267, 0.34077999999999997]</Value>
+   </Push_rod_wishbone_end>
+   <Rocker_axis_1st_point>
+      <Value>[-1.58695, 0.20714, 0.3925]</Value>
+   </Rocker_axis_1st_point>
+   <Rocker_axis_2nd_point>
+      <Value>[-1.5948099999999998, 0.20714, 0.38630000000000003]</Value>
+   </Rocker_axis_2nd_point>
+   <Roll_Bar_1_C_of_G>
+      <Value>[-1.56397, -0.29437, 0.35529]</Value>
+   </Roll_Bar_1_C_of_G>
+   <Roll_Bar_2_C_of_G>
+      <Value>[-1.56397, 0.29437, 0.35529]</Value>
+   </Roll_Bar_2_C_of_G>
+   <Roll_Bar_Attachment_1>
+      <Value>[-1.6019100000000002, -0.22854, 0.40338]</Value>
+   </Roll_Bar_Attachment_1>
+   <Roll_Bar_Attachment_2>
+      <Value>[-1.6019100000000002, 0.22854, 0.40338]</Value>
+   </Roll_Bar_Attachment_2>
+   <Roll_Bar_Mount_1>
+      <Value>[-1.4964600000000001, -0.29437, 0.42048]</Value>
+   </Roll_Bar_Mount_1>
+   <Roll_Bar_Mount_2>
+      <Value>[-1.4964600000000001, 0.29437, 0.42048]</Value>
+   </Roll_Bar_Mount_2>
+   <Roll_Bar_Revolute>
+      <Value>[-1.4964600000000001, -0.0, 0.42048]</Value>
+   </Roll_Bar_Revolute>
+   <Roll_Bar_to_Link1>
+      <Value>[-1.53021, -0.29437, 0.38788]</Value>
+   </Roll_Bar_to_Link1>
+   <Roll_Bar_to_Link2>
+      <Value>[-1.53021, 0.29437, 0.38788]</Value>
+   </Roll_Bar_to_Link2>
+   <Upper_wishbone_front_pivot>
+      <Value>[-1.32925, 0.36, 0.27472]</Value>
+   </Upper_wishbone_front_pivot>
+   <Upper_wishbone_outer_ball_joint>
+      <Value>[-1.567, 0.55, 0.327]</Value>
+   </Upper_wishbone_outer_ball_joint>
+   <Upper_wishbone_rear_pivot>
+      <Value>[-1.54019, 0.275, 0.23797]</Value>
+   </Upper_wishbone_rear_pivot>
+   <Wheel_centre_point>
+      <Value>[-1.55, 0.64, 0.25]</Value>
+   </Wheel_centre_point>
+   <Wheel_spindle_point>
+      <Value>[-1.55, 0.61, 0.25]</Value>
+   </Wheel_spindle_point>
+</Parameters>

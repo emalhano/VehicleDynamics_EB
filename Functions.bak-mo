@@ -1,0 +1,21 @@
+within VehicleDynamics_EB;
+
+package Functions
+  function TLR
+  
+    input Real tyreRadius "Tyre radius";
+    input Real dertyreRadius "Tyre radius";
+    output Real Fz "Tyre vertical force";
+  
+  protected
+  
+    parameter Real kTyre = 130e3 "Tyre stiffness";
+    parameter Real cTyre = 200 "Tyre damping";
+    parameter Real r0 = 0.255 "Tyre unloaded radius";
+  
+  algorithm
+  
+    Fz := (tyreRadius - r0)*kTyre + dertyreRadius*cTyre;
+
+  end TLR;
+end Functions;
