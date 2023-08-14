@@ -1,5 +1,7 @@
 package VehicleDynamics_EB
 
   annotation(
-    uses(Modelica(version = "4.0.0")));
+    uses(Modelica(version = "4.0.0"), ExternData(version = "3.0.3")),
+  Icon(graphics = {Rectangle(origin = {-70, 21}, lineColor = {0, 85, 255}, fillColor = {0, 85, 255}, fillPattern = FillPattern.Solid, extent = {{-10, 19}, {10, -19}}), Rectangle(origin = {-15, -5}, lineColor = {0, 85, 255}, fillColor = {0, 85, 255}, fillPattern = FillPattern.Solid, extent = {{-45, 15}, {45, -15}}), Polygon(origin = {-30, 25}, lineColor = {0, 85, 255}, fillColor = {0, 85, 255}, fillPattern = FillPattern.Solid, points = {{-30, -15}, {30, 15}, {30, -15}, {-30, -15}}), Ellipse(origin = {-50, -10}, fillPattern = FillPattern.Solid, extent = {{-20, 20}, {20, -20}}), Ellipse(origin = {50, -10}, fillColor = {182, 182, 182}, fillPattern = FillPattern.Solid, extent = {{-10, 10}, {10, -10}}), Polygon(origin = {92, -5}, lineColor = {0, 85, 255}, fillColor = {0, 85, 255}, fillPattern = FillPattern.Solid, points = {{8, -15}, {-62, 15}, {-62, -15}, {8, -15}}), Ellipse(origin = {50, -10}, fillColor = {182, 182, 182}, fillPattern = FillPattern.Solid, extent = {{-10, 10}, {10, -10}}), Ellipse(origin = {60, -10}, fillPattern = FillPattern.Solid, extent = {{-20, 20}, {20, -20}}), Ellipse(origin = {60, -10}, fillColor = {182, 182, 182}, fillPattern = FillPattern.Solid, extent = {{-10, 10}, {10, -10}}), Ellipse(origin = {-50, -10}, fillColor = {182, 182, 182}, fillPattern = FillPattern.Solid, extent = {{-10, 10}, {10, -10}})}, coordinateSystem(extent = {{-80, 40}, {100, -40}})),
+  version = "");
 end VehicleDynamics_EB;
